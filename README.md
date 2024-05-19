@@ -1,1 +1,8 @@
-# Hono-app
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
